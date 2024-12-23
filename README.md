@@ -1,5 +1,11 @@
+# Rajinkan membaca
+
 # img-to-pdf
 Tool convert images into pdf file, easy to use. Created by python Coded by me.
+
+# Requirement
+- make sure you have python installed into your pc/laptop https://python.org/downloads
+- Usaha tawakkal
 
 # Download
 download this "pdfcvr.py" file program.
