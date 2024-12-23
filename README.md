@@ -21,7 +21,7 @@ ls
 # Run Program
 
 if you're using windows 7/10/11
-just click the program to run as python program.
+just click the program to run as python program after file downloaded.
 
 if you're using command line
 ```shell
