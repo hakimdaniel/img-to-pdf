@@ -23,4 +23,8 @@ python pdfcvr.py
 ```
 
 ![screenshot](img/Screenshot_2024-12-23-10-45-46-053_com.termux-edit.jpg)
+
+![screenshot](img/Screenshot_2024-12-23-10-46-31-589_com.termux-edit.jpg)
+
+![screenshot](img/Screenshot_2024-12-23-10-46-55-277_com.termux-edit.jpg)
 Then enjoy the tool
