@@ -13,6 +13,11 @@ ls
 ```
 
 # Run Program
+
+if you're using windows 7/10/11
+just click the program to run as python program.
+
+if you're using command line
 ```shell
 python pdfcvr.py
 ```
