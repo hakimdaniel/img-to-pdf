@@ -21,4 +21,6 @@ if you're using command line
 ```shell
 python pdfcvr.py
 ```
+
+![screenshot](Screenshot_2024-12-23-10-45-46-053_com.termux-edit.jpg)
 Then enjoy the tool
