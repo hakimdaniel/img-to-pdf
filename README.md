@@ -3,6 +3,10 @@
 # img-to-pdf
 Tool convert images into pdf file, easy to use. Created by python Coded by me.
 
+# Now available in User Interface
+dist/pdf_cvr.exe
+![screenshot](img/screenshotbaru.png)
+
 # Requirement
 - make sure you have python installed into your pc/laptop https://python.org/downloads
 - Usaha tawakkal
