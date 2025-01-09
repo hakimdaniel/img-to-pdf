@@ -4,7 +4,7 @@
 Tool convert images into pdf file, easy to use. Created by python Coded by me.
 
 # Now available in User Interface
-dist/pdf_cvr.exe
+- dist/pdf_cvr.exe
 ![screenshot](img/screenshotbaru.png)
 
 # Requirement
