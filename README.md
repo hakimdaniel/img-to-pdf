@@ -2,7 +2,7 @@
 
 # img-to-pdf
 Tool convert images into pdf file, easy to use. Created by python Coded by me.
-<a href="https://hakimdaniel.github.io/img-to-pdf/dist/PdfCvr.zip">Download Here</a>
+<a href="https://hakimdaniel.github.io/img-to-pdf/dist/PdfCvr.zip">Download UI Version Here</a>
 
 # Now available in User Interface
 - dist/pdf_cvr.exe
