@@ -1,4 +1,4 @@
-# img-to-pdf
+# img-to-pdf GUI Version (Recommended)
 Tool convert images into pdf file, easy to use. Created by python Coded by me.
 <a href="https://hakimdaniel.github.io/img-to-pdf/dist/pdf_cvr.exe">Download UI Version Here</a>
 
@@ -12,7 +12,7 @@ Give star ⭐ to my project in github 😁
 
 ![screenshot](img/screenshotbaru.png)
 
-# Requirement
+# Requirement for CLI Version (Optional)
 - make sure you have python installed into your pc/laptop https://python.org/downloads
 - Usaha tawakkal
 
